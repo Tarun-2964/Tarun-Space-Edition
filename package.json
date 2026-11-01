@@ -1,0 +1,45 @@
+{
+  "name": "tarun-portfolio",
+  "version": "1.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "author": {
+    "name": "C Tarun Varma",
+    "email": "ctarunvarma@gmail.com",
+    "url": "https://github.com/Tarun-2964"
+  },
+  "description": "Portfolio of C Tarun Varma \u2013 Web Developer, UI/UX Designer & Vibe Coder",
+  "license": "MIT",
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "@react-three/drei": "^10.7.9",
+    "@react-three/fiber": "^9.8.2",
+    "clsx": "^2.1.1",
+    "framer-motion": "^14.6.0",
+    "maath": "^0.10.8",
+    "next": "16.4.3",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "react-icons": "^5.7.0",
+    "react-intersection-observer": "^11.0.1",
+    "tailwind-merge": "^3.6.0",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/three": "^0.186.0",
+    "autoprefixer": "^10.6.0",
+    "eslint": "^10.13.0",
+    "eslint-config-next": "16.4.3",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^6"
+  }
+}
